@@ -1,0 +1,24 @@
+* {
+	font-family: Arial Black;
+}
+
+h1{
+	background: rgb(86, 125, 70); 
+	color: white;
+	position: relative;
+}
+
+button{
+	font-size: 12px; 
+	border-radius: 4px; 
+	color: rgb(86, 125, 70); 
+	background-color: white; 
+	border: 1px solid; 
+	border-color: 
+	rgb(86, 125, 70);
+}
+
+.pa{
+	background-color: rgb(86, 125, 70);
+	color: white;
+}
